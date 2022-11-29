@@ -21,6 +21,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 </p>
 
+## Контакты
+<p>
+<a href="mailto:fagotist96@icloud.com"><img src="https://pngicon.ru/file/uploads/znachok-jelektronnoj-pochty.png" alt="HTML" height="30"></a>
+<a href="https://t.me/Ilia_ya_Ilia"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="HTML" height="28"></a>
+</p>
+
 
 
 
