@@ -12,10 +12,14 @@
   - Владею основами React 
 
 ## Мой стек
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="32"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" height="32"/> 
-<img src="<https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>" height="32"/> 
-[<https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg>](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+</p>
 
 
 
