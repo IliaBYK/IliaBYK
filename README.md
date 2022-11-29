@@ -2,6 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&duration=1500&pause=100000&center=true&multiline=true&width=900&height=100&lines=%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%98%D0%BB%D1%8C%D1%8F)](https://git.io/typing-svg)<!-- <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 <h3 align="center">Я начинающий веб-разработчик из России 🇷🇺</h3>
 
+## К чему я стремлюсь
+
+- Научиться писать грамотный код
+    * Сейчас учусь на курсе веб-разработки от Yandex.Практикума
+- Научиться работать в профессиональной команде
+    * Осваиваю гит
+- Освоить популярные и необходимые фреймворки и библиотеке
+    * Владею основами React [<svg></svg>](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
+
+
+
 
 <!--
 **IliaBYK/IliaBYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
