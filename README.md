@@ -10,7 +10,10 @@
     * Осваиваю гит
 - Освоить популярные и необходимые фреймворки и библиотеке
   - Владею основами React 
-  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="32" margin-top="15"/>
+
+## Мой стек
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="32" margin-top="15"/> <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" height="32" margin-top="15"/> <img src="<https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg>" height="32" margin-top="15"/> <img src="<https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg>" height="32" margin-top="15"/>
+
 
 
 
