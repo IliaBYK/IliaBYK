@@ -9,7 +9,8 @@
 - Научиться работать в профессиональной команде
     * Осваиваю гит
 - Освоить популярные и необходимые фреймворки и библиотеке
-  - Владею основами React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="32"/>
+  - Владею основами React 
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="32" margin-top="15"/>
 
 
 
